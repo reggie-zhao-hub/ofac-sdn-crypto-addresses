@@ -1,0 +1,10 @@
+# Source data files - re-downloadable from OFAC, and sdn_advanced.xml exceeds GitHub's 100MB limit
+sdn.csv
+sdn_advanced.xml
+
+# Local convenience launcher
+启动Notebook.bat
+
+# Python / Jupyter noise
+__pycache__/
+.ipynb_checkpoints/
