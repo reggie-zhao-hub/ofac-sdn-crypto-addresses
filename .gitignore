@@ -8,3 +8,8 @@ sdn_advanced.xml
 # Python / Jupyter noise
 __pycache__/
 .ipynb_checkpoints/
+
+# Agent runtime artefacts: SQLite db + source meta + downloaded xml
+# (alerts/ 是作品产出，要提交，不要排除)
+data/
+snapshots/
